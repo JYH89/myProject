@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31617efc-a69d-4902-a434-471ce8a7ec91" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AutoTest.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autotest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Autotest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/testviews/execute_test_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/testviews/execute_test_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OUrdEwhsOxjV5icREik7N9J4MY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="last_opened_file_path" value="D:/software/nodejs/node.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="D:/software/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\autotest\frontend\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31617efc-a69d-4902-a434-471ce8a7ec91" name="默认" comment="" />
+      <created>1564043101714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564043101714</updated>
+      <workItem from="1564043102996" duration="669000" />
+      <workItem from="1564046629382" duration="227000" />
+      <workItem from="1564057134085" duration="1489000" />
+      <workItem from="1564099526576" duration="4587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
