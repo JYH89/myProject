@@ -1,6 +1,6 @@
 # frontend
 
-> 云英自动化测试平台前端
+> 自动化测试平台前端
 
 ## Build Setup
 
